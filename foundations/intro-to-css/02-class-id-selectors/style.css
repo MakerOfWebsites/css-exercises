@@ -1,6 +1,6 @@
 .regularClass, .coolClass{
     background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #oneID{
@@ -10,8 +10,6 @@
 
 .coolClass{
     font-size: 24px;
-    
-
 }
 
 #anotherID{
