@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.one{
+    background-color: black;
+    color: rgb(255, 255, 255)
+}
+
+.two{
+    background-color: rgba(221, 241, 7, 0.613);
+}
+
+.one, .two{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
